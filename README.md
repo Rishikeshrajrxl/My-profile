@@ -1,5 +1,4 @@
-Check my profile here:
-http://rishikeshraj.com/
+Check my profile here:  <a href="http://rishikeshraj.com/">Click here</a>
 
 
 <img src="rishi.png">
